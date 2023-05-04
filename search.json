@@ -5,15 +5,21 @@
       "title": "Acerca de este taller",
       "author": [],
       "contents": "\r\nEste taller es parte del: “Curso Manejo y Conservación de Vida Silvestre”\r\n\r\nJueves 5 de Mayo 2023.\r\n\r\nGracias por su participación.\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T16:29:11-05:00"
+      "last_modified": "2023-05-04T16:38:02-05:00"
     },
     {
       "path": "index.html",
       "title": "Modelos de Ocupación",
       "description": "Mini Taller: Modelos de Ocupación\n",
-      "author": [],
+      "author": [
+        {
+          "name": "Diego J. Lizcano",
+          "url": "https://example.com/norahjones"
+        }
+      ],
+      "date": "May 5, 2023",
       "contents": "\r\nBienvenido sitio web del mini taller de modelado de la ocupación. Uniandes 2023\r\nEste taller hace parte del curso: Manejo y Conservación de Vida Silvestre\r\nJueves 5 de Mayo 2023.\r\nGracias por su participación!\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\nPara mas detalles\r\nSobre R y un tutorial básico de R\r\nPara comenzar el mini taller\r\nUn tutorial mas detallado y extenso\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T16:29:12-05:00"
+      "last_modified": "2023-05-04T16:38:03-05:00"
     }
   ],
   "collections": []
