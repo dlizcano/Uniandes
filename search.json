@@ -2,18 +2,18 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About This Website",
+      "title": "Acerca de este taller",
       "author": [],
-      "contents": "\r\n“Curso Manejo y Conservación de Vida Silvestre”\r\n\r\nJueves 5 de Mayo 2023.\r\n\r\nGracias por su participación.\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T15:55:10-05:00"
+      "contents": "\r\nEste taller es parte del: “Curso Manejo y Conservación de Vida Silvestre”\r\n\r\nJueves 5 de Mayo 2023.\r\n\r\nGracias por su participación.\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-05-04T16:29:11-05:00"
     },
     {
       "path": "index.html",
       "title": "Modelos de Ocupación",
       "description": "Mini Taller: Modelos de Ocupación\n",
       "author": [],
-      "contents": "\r\n¡Bienvenido sitio web del mini taller de modelado de la ocupación de Uniandes 2023!\r\nEste taller hace parte del curso:\r\n“Manejo y Conservación de Vida Silvestre”\r\nJueves 5 de Mayo 2023.\r\nGracias por su participación!\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\nPara mas detalles sobre R y un tutorial básico de R https://dlizcano.github.io/IntroR/\r\nTo start the course: https://dlizcano.github.io/OTS/Occupancy.html\r\nTo start the Ocupancy Book Tutorial: https://dlizcano.github.io/occu_book/\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T15:55:11-05:00"
+      "contents": "\r\nBienvenido sitio web del mini taller de modelado de la ocupación. Uniandes 2023\r\nEste taller hace parte del curso: Manejo y Conservación de Vida Silvestre\r\nJueves 5 de Mayo 2023.\r\nGracias por su participación!\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\nPara mas detalles\r\nSobre R y un tutorial básico de R\r\nPara comenzar el mini taller\r\nUn tutorial mas detallado y extenso\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-05-04T16:29:12-05:00"
     }
   ],
   "collections": []
