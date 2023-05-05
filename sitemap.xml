@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://dlizcano.github.io/Uniandes/about.html</loc>
-    <lastmod>2023-05-04T20:02:55-05:00</lastmod>
+    <lastmod>2023-05-04T20:26:32-05:00</lastmod>
   </url>
   <url>
     <loc>https://dlizcano.github.io/Uniandes/</loc>
-    <lastmod>2023-05-04T20:02:57-05:00</lastmod>
+    <lastmod>2023-05-05T01:47:15-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://dlizcano.github.io/Uniandes/Ocupacion.html</loc>
+    <lastmod>2023-05-05T02:49:39-05:00</lastmod>
   </url>
 </urlset>
