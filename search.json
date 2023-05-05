@@ -5,13 +5,13 @@
       "title": "Acerca de este taller",
       "author": [
         {
-          "name": "Diego J. Lizcano",
-          "url": {}
+          "name": {},
+          "url": "https://dlizcano.github.io"
         }
       ],
       "date": "05-05-2023",
       "contents": "\r\nEste taller es parte del: “Curso Manejo y Conservación de Vida Silvestre”\r\n\r\nJueves 5 de Mayo 2023.\r\n\r\nGracias por su participación.\r\nEste taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T17:52:37-05:00"
+      "last_modified": "2023-05-04T20:15:26-05:00"
     },
     {
       "path": "index.html",
@@ -19,13 +19,13 @@
       "description": "Mini Taller: Modelos de Ocupación\n",
       "author": [
         {
-          "name": "Diego J. Lizcano",
-          "url": {}
+          "name": {},
+          "url": "https://dlizcano.github.io"
         }
       ],
       "date": "05-05-2023",
-      "contents": "\r\nBienvenido sitio web del mini taller de modelado de la ocupación. Uniandes 2023\r\nEste taller hace parte del curso: Manejo y Conservación de Vida Silvestre\r\nJueves 5 de Mayo 2023.\r\nGracias por su participación!\r\nPara comenzar… \r\nEste mini taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.\r\nPara mas detalles\r\nUn tutorial básico de \r\nUn tutorial mas detallado y extenso \r\n\r\n\r\n\r\n",
-      "last_modified": "2023-05-04T17:52:39-05:00"
+      "contents": "\r\nBienvenido sitio web del mini taller de modelado de la ocupación. Uniandes 2023\r\nEste taller hace parte del curso: Manejo y Conservación de Vida Silvestre\r\nJueves 5 de Mayo 2023.\r\nEn ecología, conservación y manejo de fauna silvestre los modelos de ocupación se utilizan a menudo para estudiar la presencia y la abundancia de especies en un área determinada. El modelo de ocupación nos permite estimar la probabilidad de que una especie esté presente en un sitio determinado y, a su vez, la detección se utiliza para estimar la probabilidad de que se detecte la especie si esta está presente.\r\nLa detección de especies se puede llevar a cabo utilizando una variedad de técnicas, como la observación visual directa, el uso de trampas camara, el análisis de sonidos y la recolección de muestras de ADN ambiental. Los datos de observación de muestreos repetidos de varios sitios se usan para calcular los dos parametros en un modelo jerarquico.\r\nEste enfoque se utiliza en la investigación y conservación de especies o en la gestión de hábitats naturales. Los modelos de ocupación son la piedra angular de los métodos de monitoreo de biodiversidad modernos. Al comprender la ocupación y la detección de las especies en un área determinada, se pueden tomar medidas para proteger y conservar los ecosistemas y las especies que dependen de ellos.\r\nGracias por su participación!\r\nComencemos\r\n\r\nEste mini taller fue posible gracias a la invitación de la profesora Áida Otálora-Ardila, Ph.D.\r\nPara mas detalles\r\nUn tutorial básico de \r\nUn tutorial mas detallado y extenso \r\n\r\n\r\n\r\n",
+      "last_modified": "2023-05-04T20:15:27-05:00"
     }
   ],
   "collections": []
