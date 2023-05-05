@@ -1,0 +1,30 @@
+---
+title: "Acerca de este taller"
+author:
+  - first_name: "Diego J."
+    last_name: "Lizcano"
+    url: https://dlizcano.github.io 
+    orcid_id: 0000-0002-9648-0576
+    affiliation: DAI. Destino Naturaleza (USAID)
+canonical_url: https://dlizcano.github.io/Uniandes/
+date: "05-05-2023"
+preview: Uniandes/img/Occu_Bayes.png
+creative_commons: CC BY-SA
+citation_url: https://dlizcano.github.io/Uniandes
+twitter:
+  site: "@dlizcano"
+  creator: "@dlizcano"
+site: distill::distill_website
+---
+
+Este taller es parte del: “Curso Manejo y Conservación de Vida Silvestre”
+
+> Jueves 5 de Mayo 2023.
+
+Este taller es una version muy abreviada de un [curso de tres dias ofrecido por la Sociedad Colombiana de Mastozoología.](https://dlizcano.github.io/2019/11/25/Resumen-del-2019.html)
+
+Gracias por su participación.
+
+Este taller fue posible gracias a la invitacion de la profesora Áida Otálora-Ardila, Ph.D.
+
+
